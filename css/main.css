@@ -60,6 +60,10 @@ header {
   align-items: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 nav ul {
   display: flex;
   list-style: none;
